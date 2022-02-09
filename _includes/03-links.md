@@ -1,1 +1,1 @@
-[text]https://github.com/CKJP
+[text](https://github.com/CKJP)
